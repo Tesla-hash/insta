@@ -1,0 +1,79 @@
+// app global css in SCSS form
+body {
+  font-weight: 300;
+  padding-bottom: 100px;
+  background-color: #414e60 20%;
+  background-image: url(img/bg-pattern.svg), radial-gradient(farthest-side ellipse at 10% 0, #5e53c9 20%,  #59dfdf);
+  background-image: url(img/bg-pattern.svg), -webkit-radial-gradient(10% 0, farthest-side ellipse, #5e53c9 20%, #59dfdf);
+  background-image: url(img/bg-pattern.svg), -moz-radial-gradient(10% 0, farthest-side ellipse, #5e53c9 20%, #59dfdf);
+  background-size: cover;
+  background-attachment: fixed, fixed;
+  color: #FFFFFF;
+}
+
+/*.q-field__native{
+  color:#FFFFFF;
+}
+.q-drawer{
+  background-color: rgba(0,0,0,.64);
+}
+/*.q-toggle__label {
+background-color: #ffffff;
+}*/
+
+/*.q-table{
+  background-color:rgba(0,0,0,.34);
+}*/
+/*
+.q-card{
+  background-color:rgba(0,0,0,.34);
+
+}
+.q-field__label{
+  color: #FFFFFF
+}
+
+.q-tab-panels{
+  background-color: transparent;
+}
+
+.q-tab__label{
+  color: #FFFFFF;
+}
+
+.q-icon{
+  color: #FFFFFF;
+}
+
+.q-field__messages{
+  color:#FFFFFF
+}
+.q-step{
+  background-color: transparent;
+
+}
+.q-stepper{
+  background-color: transparent;
+
+}
+.q-stepper__title{
+  color:#FFFFFF
+}
+.text-primary{
+  color:#FFFFFF
+}
+
+.q-stepper--vertical .q-stepper__step-inner {
+  padding: 0 24px 32px 10px;
+}
+*/.q-header{
+  background-color:rgba(0,0,0,.64);
+
+}
+/*
+.q-select__dialog{
+  background-color:rgba(0,0,0,.74);
+}*/
+/*.q-item__label{
+  color:#FFFFFF
+}*/
